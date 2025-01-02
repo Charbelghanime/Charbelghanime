@@ -6,7 +6,7 @@
   <a href="https://www.leetcode.com/csg03" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="csg03" height="30" width="40" />
   </a>
-  <a href="https://tryhackme.com/p/2341621" target="_blank">
+  <a href="https://tryhackme.com/r/p/CGhanime" target="_blank">
     <img align="center" src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe Profile" height="30" width="40" />
   </a>
 </p>
